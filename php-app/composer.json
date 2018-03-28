@@ -1,0 +1,12 @@
+{
+    "name": "mebooks/php-app",
+    "description": "php-app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "hanman reddy",
+            "email": "hanmanreddy@gmail.com"
+        }
+    ],
+    "require": {}
+}
